@@ -2,21 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:      # allows manual triggering
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate the snake game from GitHub contributions
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: sivachidhambarams
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake animation to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
