@@ -61,6 +61,10 @@
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Siva17-27)
+
+---
+
 <p align="center">
   🚀 *Always building. Always learning. Always growing.*
 </p>
