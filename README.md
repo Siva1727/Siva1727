@@ -65,6 +65,14 @@
 
 ---
 
+### 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://github.com/Siva1727/Siva1727/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   🚀 *Always building. Always learning. Always growing.*
 </p>
