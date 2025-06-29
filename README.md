@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **DSA, Java Collections, and Frameworks**
 - 💬 Ask me about **Java, DSA, and Problem Solving**
 - 📫 Reach me at: **sivachidhambaram27@gmail.com**
+- 🌐 Portfolio: [Visit My Portfolio](https://siva-portfolio-1ad853.netlify.app/)
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1N_FXW8hYE-oGZf21phLMUkGCLvsfnfaH/view?usp=drive_link)
 - ⚡ Fun fact: *“My code works... until someone else runs it.”*
 
@@ -56,6 +57,10 @@
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/siva17-27" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://siva-portfolio-1ad853.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=netlify" />
   </a>
 </p>
 
