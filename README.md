@@ -18,6 +18,33 @@
 
 ---
 
+### 💡 Quick Bits
+
+- 🔭 Working on: `Volunteer Management System (MERN)`
+- 🧠 Learning: System Design & Spring Boot
+- ⚒️ Fav Tech: Java, MongoDB, Node.js, React
+- 📈 2025 Goal: Get placed in a Product-Based Company
+- 🧩 Fun Fact: I debug with snacks 🍕😄
+
+---
+
+### 💬 Cool Quotes & Coding Philosophy
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson  
+> 💡 *I believe in clean, readable code that speaks for itself.*
+
+---
+
+### ✍️ My Latest Blog Posts
+
+- [Understanding Java HashMap in Depth](#)
+- [CRUD App in MERN Stack – Beginner Guide](#)
+- [IoT Projects Using ESP32 & Blynk](#)
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -50,21 +77,21 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sivachidhambarams" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.leetcode.com/siva17-27" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
   <a href="https://siva-portfolio-1ad853.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 📊 LeetCode Stats
+### 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Siva17-27?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
