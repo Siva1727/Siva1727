@@ -99,6 +99,14 @@
 
 ---
 
+### 🐍 Contribution Calendar (Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siva1727/Siva1727/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   🚀 <em>Always building. Always learning. Always growing.</em> 🚀
 </p>
