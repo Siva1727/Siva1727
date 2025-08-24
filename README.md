@@ -12,7 +12,7 @@
 - 🎓 I’m currently learning **DSA, Java Collections, and Frameworks**
 - 💬 Ask me about **Java, DSA, Problem Solving**
 - 📬 Reach me at: **sivachidhambaram27@gmail.com**
-- 🌐 Portfolio: [🔗 Visit My Portfolio](https://siva-portfolio-1ad853.netlify.app/)
+- 🌐 Portfolio: [🔗 Visit My Portfolio]((https://siva-portfolio-1ad853.netlify.app/))
 - 📄 [📝 Check out my Resume](https://drive.google.com/file/d/1N_FXW8hYE-oGZf21phLMUkGCLvsfnfaH/view?usp=drive_link)
 - ⚡ Fun fact: *“My code works... until someone else runs it.”*
 
