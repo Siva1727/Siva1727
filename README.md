@@ -27,6 +27,9 @@
 - 🧩 Fun Fact: I debug with snacks 🍕😄
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siva1727/Siva1727/main/assets/pokgamegif.gif" alt="Pacman GIF" width="100%" height="120" />
+</p>
 
 ### 💬 Cool Quotes & Coding Philosophy
 
